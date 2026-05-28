@@ -1,13 +1,9 @@
 <h1 align="center">Hello World 👋, I'm Asad Ahmad</h1>
 
-<h3 align="center">
-🚀 AI Infrastructure Engineer | Quant Systems Builder | SaaS Founder | Problem Solver
-</h3>
+<h3 align="center">AI Infrastructure Engineer | Quant Systems Builder | SaaS Founder | Problem Solver</h3>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Quant+Trading+Infrastructure;LLM+Security+Middleware;Real-Time+Backend+Systems;Scalable+SaaS+Products;Founder+%40+JacobDream+LLC" />
-
 </div>
 
 ---
@@ -21,7 +17,7 @@
 </a>
 
 <a href="https://asadahmad.online">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-asadahmad.online-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:sales@jacobdreamllc.com">
@@ -142,7 +138,6 @@ AI-assisted EdTech platform.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-111111?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
@@ -203,11 +198,7 @@ AI-assisted EdTech platform.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadahmad23cse/asadahmad23cse/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadahmad23cse/asadahmad23cse/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/asadahmad23cse/asadahmad23cse/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/asadahmad23cse/asadahmad23cse/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph"/>
 
 </div>
 
@@ -227,11 +218,7 @@ AI-assisted EdTech platform.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadahmad23cse/asadahmad23cse/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadahmad23cse/asadahmad23cse/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/asadahmad23cse/asadahmad23cse/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/asadahmad23cse/asadahmad23cse/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake"/>
 
 </div>
 
