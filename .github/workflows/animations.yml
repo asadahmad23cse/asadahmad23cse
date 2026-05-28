@@ -13,7 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    timeout-minutes: 10
 
     steps:
       - name: Generate Snake
@@ -23,17 +22,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Generate Pacman
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: asadahmad23cse
-
-      - name: Move Pacman Files
-        run: |
-          mkdir -p dist
-          cp pacman-contribution-graph.svg dist/pacman-contribution-graph.svg
-          cp pacman-contribution-graph-dark.svg dist/pacman-contribution-graph-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
