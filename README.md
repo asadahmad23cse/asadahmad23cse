@@ -192,7 +192,20 @@ AI-assisted EdTech platform.
 </div>
 
 ---
+## 🎯 Core Technical Areas
 
+<div align="center">
+
+| Domain | Technologies |
+|---|---|
+| AI Agents | LangChain, LangGraph, Multi-Agent Systems |
+| LLM Engineering | Prompt Engineering, RAG, Fine-Tuning |
+| AI Infrastructure | Vector Databases, Embeddings, AI Pipelines |
+| Backend Systems | Node.js, Express.js, FastAPI, REST APIs |
+| Databases | PostgreSQL, MongoDB, MySQL, Supabase, Redis |
+| Problem Solving | DSA, Competitive Programming |
+
+</div>
 ## 🕹️ Pac-Man Contribution Graph
 
 <div align="center">
