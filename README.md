@@ -41,7 +41,6 @@
 - 🛡️ Working on **LLM security middleware**
 - 🌍 Creating **AI-powered sustainability digital twins**
 - ⚡ Focused on **backend systems, AI infra, real-time APIs**
-- 🏢 Founder @ **JacobDream LLC**
 
 <br clear="right"/>
 
