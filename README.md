@@ -171,15 +171,7 @@ AI-assisted EdTech platform.
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadahmad23cse&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadahmad23cse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -205,14 +197,7 @@ AI-assisted EdTech platform.
 | Databases | PostgreSQL, MongoDB, MySQL, Supabase, Redis |
 | Problem Solving | DSA, Competitive Programming |
 
-</div>
-## 🕹️ Pac-Man Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/asadahmad23cse/asadahmad23cse/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph"/>
-
-</div>
 
 ---
 
