@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Asad Ahmad</h1>
 
-<h3 align="center">AI Infrastructure Engineer | Quant Systems Builder | SaaS Founder | Problem Solver</h3>
+<h3 align="center">AI Infrastructure Engineer | Quant Systems Builder  | Problem Solver</h3>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Quant+Trading+Infrastructure;LLM+Security+Middleware;Real-Time+Backend+Systems;Scalable+SaaS+Products;Founder+%40+JacobDream+LLC" />
